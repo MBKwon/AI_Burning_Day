@@ -24,7 +24,7 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
     <td style="text-align:center">
       <img src="mentor/mentor_2.png"><br>
        <strong>권문범</strong><br>
-      Platform Dev2
+      Clova SW Platform
     </td>
     <td style="text-align:center">
       <img src="mentor/mentor_3.png"><br>
